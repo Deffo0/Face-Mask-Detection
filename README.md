@@ -18,6 +18,7 @@ It's a CNN model takes a face image and tells you whether there's a mask or not.
 Data was collected from Kaggle as two folders directories:
 * with_mask folder contains 3725 images.
 * without_mask folder contains 3828 images.
+> Follow this link to reach the [DATA](https://www.kaggle.com/omkargurav/face-mask-dataset)
 ## Model
 It's divided to:
 * Two convolution layers.
